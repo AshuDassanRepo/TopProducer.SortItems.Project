@@ -1,0 +1,10 @@
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.Enumerations\bin\Debug\TopProducer.Enumerations.dll
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.Enumerations\bin\Debug\TopProducer.Enumerations.pdb
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.Enumerations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.Enumerations\obj\Debug\TopProducer.Enumerations.dll
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.Enumerations\obj\Debug\TopProducer.Enumerations.pdb
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.Enumerations\bin\Debug\TopProducer.Enumerations.dll
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.Enumerations\bin\Debug\TopProducer.Enumerations.pdb
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.Enumerations\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.Enumerations\obj\Debug\TopProducer.Enumerations.dll
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.Enumerations\obj\Debug\TopProducer.Enumerations.pdb

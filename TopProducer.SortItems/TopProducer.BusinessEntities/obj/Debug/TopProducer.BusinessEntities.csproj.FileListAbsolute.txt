@@ -1,0 +1,14 @@
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.BusinessEntities.dll
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.BusinessEntities.pdb
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.Enumerations.dll
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.Enumerations.pdb
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.BusinessEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.BusinessEntities\obj\Debug\TopProducer.BusinessEntities.dll
+C:\Users\Ashu Dassan\Desktop\TopProducer.SortItems\TopProducer.BusinessEntities\obj\Debug\TopProducer.BusinessEntities.pdb
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.BusinessEntities.dll
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.BusinessEntities.pdb
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.Enumerations.dll
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.BusinessEntities\bin\Debug\TopProducer.Enumerations.pdb
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.BusinessEntities\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.BusinessEntities\obj\Debug\TopProducer.BusinessEntities.dll
+E:\Documents\Ashu Dassan - Technical Evaluation - Vision Critical\TopProducer.SortItems.Project\TopProducer.SortItems\TopProducer.BusinessEntities\obj\Debug\TopProducer.BusinessEntities.pdb
